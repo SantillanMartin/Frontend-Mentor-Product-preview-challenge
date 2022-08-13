@@ -89,7 +89,7 @@ body{
 .main__button{
     display: flex;
     align-items: center;
-    font-size: 1.3rem;
+    font-size: 1rem;
     justify-content: center;
     gap: 1rem;
     background-color: var(--button_price-color);
