@@ -84,6 +84,7 @@ body{
     color:var(--text-color);
     font-size: 0.875rem;
     width: 15rem;
+    line-height: 1.6rem;
 }
 
 .main__button{
